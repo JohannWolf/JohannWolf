@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan Nava aka @JohannWolf
+- 👋 Hi, I’m Juan Nava
 - 👀 I’m interested in coding, programming, automation,languagues and cool weather.
 - 🌱 I’m currently learning to code better at university, and self-learning Japanese, French and more.
 - 💞️ I’m looking to collaborate on something that makes a difference
