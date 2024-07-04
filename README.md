@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Nava
-- 👀 I’m interested in coding, programming, automation, learning languagues and reading.
-- 🌱 I’m currently learning to code better at university, and self-learning French, German and have an eye in Russian and Chinese.
+- 👀 I’m interested in coding, programming, automation, learning languages, and reading.
+- 🌱 I’m currently learning Developing a Rental software to add to my portfolio. Go take a look!.
 - 💞️ I’m looking to collaborate on something that makes a difference
 - 📫 How to reach me: jnava9268@gmail.com
 
